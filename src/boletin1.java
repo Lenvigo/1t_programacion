@@ -3,7 +3,9 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class boletin1 {
+
     //boletin1; Temas 3 a 5 Programacion en Java
+
     public static void main(String[] args) {
         System.out.println("EJERCICIO: realiza un programa que genere letras aleatoriamente y determine si son consonantes");
 
