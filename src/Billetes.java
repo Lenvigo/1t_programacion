@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class billetes {
+public class Billetes {
     public static void main(String[] args) {
         //declaracion de variables
         int[] bills = {500, 200, 100, 50, 20, 10, 5};

@@ -2,7 +2,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class boletin1 {
+public class VocalesConsonantes {
 
     //boletin1; Temas 3 a 5 Programacion en Java
 
